@@ -33,6 +33,4 @@ Provide a brief summary of the issue, the title will help us get an idea of what
 
 **Example Issue**:
 
-> Bactracking isn't working properly.
 > Skin Changer crashes my game when I use some skins.
-> Chams aren't working properly.
